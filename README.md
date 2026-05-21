@@ -1,9 +1,9 @@
-# 🏈 NFL Combine Discrete Choice Analysis
+# NFL Combine Discrete Choice Analysis
 
-## 📌 Overview
+## Overview
 This repository contains a comprehensive Exploratory Data Analysis (EDA) and econometric modeling of the NFL Scouting Combine data from 2010 to 2023. The main objective is to understand how physical traits and athletic performance metrics influence a player's probability of being drafted into the NFL, using **Discrete Choice Models**.
 
-This project was developed for the *Understanding Consumer Behavior through Discrete Choice Models* course.
+This project was developed for the Understanding Consumer Behavior through Discrete Choice Models course, taught by Sebastián Astroza.
 
 ## 📊 Features & Analysis
 - **Extensive EDA:** Deep dive into 4,700+ combine participants, exploring missing values, distribution of athletic metrics, and differences between drafted and undrafted players.
